@@ -1,0 +1,6 @@
+Step 1- Create A Dtabase by Phpmyadmin , Database name db_newspaper 
+step 2- Import Database for db_newspaper.sql  (This File Include are Local path )
+step 3- Login Panel Path /login
+
+Login Email :   info@info.com
+Login Password :123456
