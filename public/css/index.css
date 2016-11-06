@@ -1,0 +1,46 @@
+.t{color: red}
+.Marquee{ color:red; font-family:"Times New Roman", Times, serif}
+.BRK_NEWS{ background:red; color:#FFFFFF; font-size:15px; font-family:"Times New Roman", Times, serif}
+.NEWS_CONTENT1 a{ color:#000; font-family:"Times New Roman", Times, serif;}
+.NEWS_CONTENT1 a:hover{ text-decoration:none}
+.USER_LOGIN_CONTENT{ height:30px; padding-top:3px; text-align:center; background:#060; font-size:18px; font-family:sutonnyMJ}
+
+.NEWS_CONTENT2{ font-family:"Times New Roman", Times, serif; color:black; font-size:25px;}
+.Content{ font-size:12px;}
+.MORE_CONTENT{ font-size:15px; font-family:"Times New Roman", Times, serif}
+
+
+			.update_new{ width: 350px;
+                    margin-top: 50px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+
+                  }
+                  
+                  .heading_plus{
+					font-family:"Times New Roman", Times, serif
+                  }
+                  .Poltics_content{
+                   font-family:"Times New Roman", Times, serif;
+                    font-size: 20px;
+                    text-align: center;
+					height:30px;
+                  }
+                  
+                  
+                  .old_news a{ color:#000; font-family:"Times New Roman", Times, serif }
+                  
+				  .old_new_heading{ font-family:"Times New Roman", Times, serif;}
+				  .old_new_heading a{color:black; text-align:justify}
+				  
+				  .Footer{ height:230px;}
+				  Image{ height:150px;}
+				  .content_excute_information{ margin-top:50px; font-family:"Times New Roman", Times, serif}
+				  .Developer a{ color:#F00}
+				  .Developer a:hover{ text-decoration:none; color:#F00}
+				  
+				  .HEADILE{ font-family:sutonnyMJ; font-size:20px}
+				  .HEADILE2{font-family:sutonnyMJ; font-size:15px}
+				  .News_coverage_man1{font-size:12px;}
+				 
+				 
